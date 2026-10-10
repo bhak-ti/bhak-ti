@@ -16,8 +16,6 @@ I build software focused on enterprise applications, backend development, system
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhak-ti&theme=github-dark-blue&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhak-ti&theme=github-compact&hide_border=true&area=true)
-
 ### 📈 GitHub Profile Summary
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhak-ti&theme=github_dark)
